@@ -1,0 +1,12 @@
+{
+  "name": "neon-gemini-chat",
+  "version": "1.0.0",
+  "description": "A neon-themed Gemini AI chat interface",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+} 
